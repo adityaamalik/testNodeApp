@@ -6,6 +6,6 @@ app.get("/", (req, res) => {
   res.send("This is the test app !");
 });
 
-app.listen("6001", () => {
+app.listen("3000", () => {
   console.log("Server is running !");
 });
